@@ -14,8 +14,8 @@ The adults have jobs. The children have interests, and pets.
 - Remember relevant interface separations, like you were taught last semester. This will help you in the following assignments.
 
 ## Diagram
-![Example](Therrmo.png)
+![Example](Diagram.png)
 
 ## Result
-![Example](Therrmo.png)
+![Example](Main.png)
 

@@ -18,4 +18,6 @@ The adults have jobs. The children have interests, and pets.
 
 ## Result
 ![Example](Main.png)
+![Example](Manage.png)
+![Example](Inspect.png)
 
